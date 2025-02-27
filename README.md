@@ -1,11 +1,63 @@
-<h1 align="center">Hi 👋, I'm Nikhil Neela</h1>
-<h3 align="center">Data Analyst | Business Analytics | Predictive Modeling | Data Visualization</h3>
+# Hi 👋, I'm Nikhil Neela
 
-- 📫 How to reach me **neelanikhil997@gmail.com**
+## 🚀 Data Analyst | Business Analytics | Data Visualization
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+🌍 Based in **Massachusetts, United States**  
+📧 Contact me: [neelanikhil997@gmail.com](mailto:neelanikhil997@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/nikhilneela07](https://www.linkedin.com/in/nikhilneela07)  
+💼 Portfolio: [MyPortfolio](http://myapp.com)  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
+
+## 🔥 About Me
+- 🎓 Master's in **Business Analytics** (Southern New Hampshire University)  
+- 💻 Passionate about **data-driven decision-making, predictive modeling, and business intelligence**  
+- 📊 Strong experience with **SQL, Python, Tableau, Power BI, and ETL Pipelines**  
+- 🌱 Currently learning **advanced machine learning techniques**  
+- 🤝 Open to **collaborations on data analytics and visualization projects**  
+
+---
+
+## 🛠️ Skills & Tools
+
+### 📌 Programming & Query Languages:
+- Python (Pandas, NumPy, Matplotlib, Seaborn)
+- SQL (PostgreSQL, MySQL, SQL Server)
+- R Programming
+
+### 📊 Data Analytics & Visualization:
+- Tableau | Power BI | Excel (Advanced)
+- ETL | Data Pipelines | Data Cleaning
+- Predictive Modeling | Hypothesis Testing | A/B Testing
+
+### ☁️ Cloud & Database:
+- AWS (Redshift, S3) | Azure
+- Snowflake | SSIS | Power Automate
+
+---
+
+## 📈 Projects
+### 🔹 **Electricity Price Analysis**
+- Designed interactive dashboards using **Tableau**
+- Improved data accuracy by **15%** using **Tableau Prep**
+
+### 🔹 **Computerized Value Plan Execution**
+- Developed analytics models for broadband development
+- Proposed targeted interventions, leading to a **20% improvement** in connectivity
+
+---
+
+## 🏆 Certifications
+- 📌 Predictive Analytics & Machine Learning in Python – **Udemy**
+- 📌 Tableau Desktop specialist - Tableau
+
+---
+
+## ⚡ Fun Fact
+🕷️ I'm secretly **Spiderman**... but don't tell anyone! 🤫
+
+---
+
+### 💡 Let's Connect!
+If you have an interesting project or opportunity, feel free to reach out!
+
